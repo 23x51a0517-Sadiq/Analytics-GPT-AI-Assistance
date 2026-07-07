@@ -1,0 +1,18 @@
+# Frontend
+
+This folder contains the user interface for the Analytics GPT AI Assistant.
+
+## Planned Features
+
+- Upload PDF documents
+- Chat interface
+- AI generated responses
+- Responsive design
+- User-friendly dashboard
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Streamlit (optional)
